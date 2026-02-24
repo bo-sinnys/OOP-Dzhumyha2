@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\oop\lab21v5\obj\Debug\net10.0\lab21v5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\oop\lab21v5\obj\Debug\net10.0\lab21v5.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\oop\lab21v5\obj\Debug\net10.0\lab21v5.AssemblyInfo.cs
+C:\Users\pc\Desktop\oop\lab21v5\obj\Debug\net10.0\lab21v5.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\oop\lab21v5\bin\Debug\net10.0\lab21v5.exe
+C:\Users\pc\Desktop\oop\lab21v5\bin\Debug\net10.0\lab21v5.deps.json
+C:\Users\pc\Desktop\oop\lab21v5\bin\Debug\net10.0\lab21v5.runtimeconfig.json
+C:\Users\pc\Desktop\oop\lab21v5\bin\Debug\net10.0\lab21v5.dll
+C:\Users\pc\Desktop\oop\lab21v5\bin\Debug\net10.0\lab21v5.pdb
+C:\Users\pc\Desktop\oop\lab21v5\obj\Debug\net10.0\lab21v5.dll
+C:\Users\pc\Desktop\oop\lab21v5\obj\Debug\net10.0\refint\lab21v5.dll
+C:\Users\pc\Desktop\oop\lab21v5\obj\Debug\net10.0\lab21v5.pdb
+C:\Users\pc\Desktop\oop\lab21v5\obj\Debug\net10.0\lab21v5.genruntimeconfig.cache
+C:\Users\pc\Desktop\oop\lab21v5\obj\Debug\net10.0\ref\lab21v5.dll
