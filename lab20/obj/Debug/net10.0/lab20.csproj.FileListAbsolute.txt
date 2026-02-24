@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\oop\lab20\bin\Debug\net10.0\lab20.exe
+C:\Users\pc\Desktop\oop\lab20\bin\Debug\net10.0\lab20.deps.json
+C:\Users\pc\Desktop\oop\lab20\bin\Debug\net10.0\lab20.runtimeconfig.json
+C:\Users\pc\Desktop\oop\lab20\bin\Debug\net10.0\lab20.dll
+C:\Users\pc\Desktop\oop\lab20\bin\Debug\net10.0\lab20.pdb
+C:\Users\pc\Desktop\oop\lab20\obj\Debug\net10.0\lab20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\oop\lab20\obj\Debug\net10.0\lab20.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\oop\lab20\obj\Debug\net10.0\lab20.AssemblyInfo.cs
+C:\Users\pc\Desktop\oop\lab20\obj\Debug\net10.0\lab20.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\oop\lab20\obj\Debug\net10.0\lab20.dll
+C:\Users\pc\Desktop\oop\lab20\obj\Debug\net10.0\refint\lab20.dll
+C:\Users\pc\Desktop\oop\lab20\obj\Debug\net10.0\lab20.pdb
+C:\Users\pc\Desktop\oop\lab20\obj\Debug\net10.0\lab20.genruntimeconfig.cache
+C:\Users\pc\Desktop\oop\lab20\obj\Debug\net10.0\ref\lab20.dll
