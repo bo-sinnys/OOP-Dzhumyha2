@@ -21,16 +21,13 @@ namespace lab24
             historyObserver.Subscribe(publisher);
             thresholdObserver.Subscribe(publisher);
 
-            // --- Square ---
             double result1 = processor.Process(5);
             publisher.PublishResult(result1, processor.GetOperationName());
 
-            // --- Cube ---
             processor.SetStrategy(new CubeOperationStrategy());
             double result2 = processor.Process(4);
             publisher.PublishResult(result2, processor.GetOperationName());
 
-            // --- Square Root ---
             processor.SetStrategy(new SquareRootOperationStrategy());
             double result3 = processor.Process(100);
             publisher.PublishResult(result3, processor.GetOperationName());
