@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\lab25\bin\Debug\net10.0\lab25.exe
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\lab25\bin\Debug\net10.0\lab25.deps.json
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\lab25\bin\Debug\net10.0\lab25.runtimeconfig.json
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\lab25\bin\Debug\net10.0\lab25.dll
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\lab25\bin\Debug\net10.0\lab25.pdb
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\lab25\obj\Debug\net10.0\lab25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\lab25\obj\Debug\net10.0\lab25.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\lab25\obj\Debug\net10.0\lab25.AssemblyInfo.cs
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\lab25\obj\Debug\net10.0\lab25.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\lab25\obj\Debug\net10.0\lab25.sourcelink.json
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\lab25\obj\Debug\net10.0\lab25.dll
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\lab25\obj\Debug\net10.0\refint\lab25.dll
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\lab25\obj\Debug\net10.0\lab25.pdb
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\lab25\obj\Debug\net10.0\lab25.genruntimeconfig.cache
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\lab25\obj\Debug\net10.0\ref\lab25.dll
