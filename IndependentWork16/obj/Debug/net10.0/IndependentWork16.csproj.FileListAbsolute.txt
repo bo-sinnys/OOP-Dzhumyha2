@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork16\obj\Debug\net10.0\IndependentWork16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork16\obj\Debug\net10.0\IndependentWork16.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork16\obj\Debug\net10.0\IndependentWork16.AssemblyInfo.cs
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork16\obj\Debug\net10.0\IndependentWork16.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork16\obj\Debug\net10.0\IndependentWork16.sourcelink.json
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork16\bin\Debug\net10.0\IndependentWork16.exe
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork16\bin\Debug\net10.0\IndependentWork16.deps.json
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork16\bin\Debug\net10.0\IndependentWork16.runtimeconfig.json
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork16\bin\Debug\net10.0\IndependentWork16.dll
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork16\bin\Debug\net10.0\IndependentWork16.pdb
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork16\obj\Debug\net10.0\IndependentWork16.dll
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork16\obj\Debug\net10.0\refint\IndependentWork16.dll
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork16\obj\Debug\net10.0\IndependentWork16.pdb
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork16\obj\Debug\net10.0\IndependentWork16.genruntimeconfig.cache
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork16\obj\Debug\net10.0\ref\IndependentWork16.dll

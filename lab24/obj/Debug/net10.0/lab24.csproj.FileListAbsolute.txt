@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\lab24\bin\Debug\net10.0\lab24.exe
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\lab24\bin\Debug\net10.0\lab24.deps.json
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\lab24\bin\Debug\net10.0\lab24.runtimeconfig.json
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\lab24\bin\Debug\net10.0\lab24.dll
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\lab24\bin\Debug\net10.0\lab24.pdb
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\lab24\obj\Debug\net10.0\lab24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\lab24\obj\Debug\net10.0\lab24.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\lab24\obj\Debug\net10.0\lab24.AssemblyInfo.cs
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\lab24\obj\Debug\net10.0\lab24.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\lab24\obj\Debug\net10.0\lab24.sourcelink.json
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\lab24\obj\Debug\net10.0\lab24.dll
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\lab24\obj\Debug\net10.0\refint\lab24.dll
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\lab24\obj\Debug\net10.0\lab24.pdb
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\lab24\obj\Debug\net10.0\lab24.genruntimeconfig.cache
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\lab24\obj\Debug\net10.0\ref\lab24.dll
