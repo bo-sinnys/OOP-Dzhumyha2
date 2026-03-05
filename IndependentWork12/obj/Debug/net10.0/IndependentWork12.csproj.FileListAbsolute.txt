@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork12\bin\Debug\net10.0\IndependentWork12.exe
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork12\bin\Debug\net10.0\IndependentWork12.deps.json
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork12\bin\Debug\net10.0\IndependentWork12.runtimeconfig.json
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork12\bin\Debug\net10.0\IndependentWork12.dll
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork12\bin\Debug\net10.0\IndependentWork12.pdb
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork12\obj\Debug\net10.0\IndependentWork12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork12\obj\Debug\net10.0\IndependentWork12.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork12\obj\Debug\net10.0\IndependentWork12.AssemblyInfo.cs
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork12\obj\Debug\net10.0\IndependentWork12.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork12\obj\Debug\net10.0\IndependentWork12.sourcelink.json
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork12\obj\Debug\net10.0\IndependentWork12.dll
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork12\obj\Debug\net10.0\refint\IndependentWork12.dll
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork12\obj\Debug\net10.0\IndependentWork12.pdb
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork12\obj\Debug\net10.0\IndependentWork12.genruntimeconfig.cache
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork12\obj\Debug\net10.0\ref\IndependentWork12.dll
