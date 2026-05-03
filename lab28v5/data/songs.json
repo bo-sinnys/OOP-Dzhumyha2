@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "title": "Let It Be",
+    "artist": {
+      "id": 1,
+      "name": "The Beatles",
+      "country": "Велика Британія",
+      "birth_year": 1960
+    },
+    "genre": "Rock",
+    "duration_seconds": 243,
+    "release_year": 1970
+  },
+  {
+    "id": 2,
+    "title": "bad guy",
+    "artist": {
+      "id": 2,
+      "name": "Billie Eilish",
+      "country": "США",
+      "birth_year": 2001
+    },
+    "genre": "Pop",
+    "duration_seconds": 194,
+    "release_year": 2019
+  },
+  {
+    "id": 3,
+    "title": "Believer",
+    "artist": {
+      "id": 3,
+      "name": "Imagine Dragons",
+      "country": "США",
+      "birth_year": 2008
+    },
+    "genre": "Rock",
+    "duration_seconds": 204,
+    "release_year": 2017
+  },
+  {
+    "id": 4,
+    "title": "Rolling in the Deep",
+    "artist": {
+      "id": 4,
+      "name": "Adele",
+      "country": "Велика Британія",
+      "birth_year": 1988
+    },
+    "genre": "Pop",
+    "duration_seconds": 228,
+    "release_year": 2010
+  },
+  {
+    "id": 5,
+    "title": "Yesterday",
+    "artist": {
+      "id": 1,
+      "name": "The Beatles",
+      "country": "Велика Британія",
+      "birth_year": 1960
+    },
+    "genre": "Rock",
+    "duration_seconds": 125,
+    "release_year": 1965
+  }
+]
