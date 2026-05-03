@@ -1,4 +1,4 @@
-# Лабораторна робота №31
+# Лабораторна робота №31v5
 **Тема:** Тестування з Moq (мокінг залежностей)
 
 ---
@@ -140,14 +140,6 @@ public void CancelBooking_ExistingBooking_CallsRepositoryDelete()
 }
 ```
 
----
-
-## Запуск тестів
-
-```powershell
-# З кореневої папки проєкту
-dotnet test
-```
 
 **Результат:**
 
