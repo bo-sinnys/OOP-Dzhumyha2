@@ -1,0 +1,6 @@
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\lab31v5\lab31v5.Tests\obj\Debug\net8.0\lab31v1.Tests.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\lab31v5\lab31v5.Tests\obj\Debug\net8.0\lab31v1.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\lab31v5\lab31v5.Tests\obj\Debug\net8.0\lab31v1.Tests.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\lab31v5\lab31v5.Tests\obj\Debug\net8.0\lab31v1.Tests.AssemblyInfo.cs
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\lab31v5\lab31v5.Tests\obj\Debug\net8.0\lab31v1.Tests.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\lab31v5\lab31v5.Tests\obj\Debug\net8.0\lab31v1.Tests.sourcelink.json
