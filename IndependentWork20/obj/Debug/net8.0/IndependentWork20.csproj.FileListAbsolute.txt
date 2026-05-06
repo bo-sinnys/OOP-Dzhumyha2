@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork20\obj\Debug\net8.0\IndependentWork20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork20\obj\Debug\net8.0\IndependentWork20.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork20\obj\Debug\net8.0\IndependentWork20.AssemblyInfo.cs
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork20\obj\Debug\net8.0\IndependentWork20.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork20\obj\Debug\net8.0\IndependentWork20.sourcelink.json
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork20\bin\Debug\net8.0\IndependentWork20.exe
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork20\bin\Debug\net8.0\IndependentWork20.deps.json
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork20\bin\Debug\net8.0\IndependentWork20.runtimeconfig.json
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork20\bin\Debug\net8.0\IndependentWork20.dll
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork20\bin\Debug\net8.0\IndependentWork20.pdb
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork20\obj\Debug\net8.0\IndependentWork20.dll
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork20\obj\Debug\net8.0\refint\IndependentWork20.dll
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork20\obj\Debug\net8.0\IndependentWork20.pdb
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork20\obj\Debug\net8.0\IndependentWork20.genruntimeconfig.cache
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork20\obj\Debug\net8.0\ref\IndependentWork20.dll
