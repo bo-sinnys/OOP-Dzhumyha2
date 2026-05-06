@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\IndependentWork19\bin\Debug\net8.0\IndependentWork19.exe
+C:\Users\pc\Desktop\IndependentWork19\bin\Debug\net8.0\IndependentWork19.deps.json
+C:\Users\pc\Desktop\IndependentWork19\bin\Debug\net8.0\IndependentWork19.runtimeconfig.json
+C:\Users\pc\Desktop\IndependentWork19\bin\Debug\net8.0\IndependentWork19.dll
+C:\Users\pc\Desktop\IndependentWork19\bin\Debug\net8.0\IndependentWork19.pdb
+C:\Users\pc\Desktop\IndependentWork19\obj\Debug\net8.0\IndependentWork19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\IndependentWork19\obj\Debug\net8.0\IndependentWork19.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\IndependentWork19\obj\Debug\net8.0\IndependentWork19.AssemblyInfo.cs
+C:\Users\pc\Desktop\IndependentWork19\obj\Debug\net8.0\IndependentWork19.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\IndependentWork19\obj\Debug\net8.0\IndependentWork19.dll
+C:\Users\pc\Desktop\IndependentWork19\obj\Debug\net8.0\refint\IndependentWork19.dll
+C:\Users\pc\Desktop\IndependentWork19\obj\Debug\net8.0\IndependentWork19.pdb
+C:\Users\pc\Desktop\IndependentWork19\obj\Debug\net8.0\IndependentWork19.genruntimeconfig.cache
+C:\Users\pc\Desktop\IndependentWork19\obj\Debug\net8.0\ref\IndependentWork19.dll
