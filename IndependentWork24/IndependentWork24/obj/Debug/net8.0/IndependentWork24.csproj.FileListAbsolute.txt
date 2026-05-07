@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork24\IndependentWork24\bin\Debug\net8.0\IndependentWork24.exe
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork24\IndependentWork24\bin\Debug\net8.0\IndependentWork24.deps.json
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork24\IndependentWork24\bin\Debug\net8.0\IndependentWork24.runtimeconfig.json
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork24\IndependentWork24\bin\Debug\net8.0\IndependentWork24.dll
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork24\IndependentWork24\bin\Debug\net8.0\IndependentWork24.pdb
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork24\IndependentWork24\obj\Debug\net8.0\IndependentWork24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork24\IndependentWork24\obj\Debug\net8.0\IndependentWork24.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork24\IndependentWork24\obj\Debug\net8.0\IndependentWork24.AssemblyInfo.cs
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork24\IndependentWork24\obj\Debug\net8.0\IndependentWork24.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork24\IndependentWork24\obj\Debug\net8.0\IndependentWork24.sourcelink.json
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork24\IndependentWork24\obj\Debug\net8.0\IndependentWork24.dll
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork24\IndependentWork24\obj\Debug\net8.0\refint\IndependentWork24.dll
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork24\IndependentWork24\obj\Debug\net8.0\IndependentWork24.pdb
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork24\IndependentWork24\obj\Debug\net8.0\IndependentWork24.genruntimeconfig.cache
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork24\IndependentWork24\obj\Debug\net8.0\ref\IndependentWork24.dll
