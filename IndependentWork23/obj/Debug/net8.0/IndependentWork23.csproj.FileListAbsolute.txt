@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork23\bin\Debug\net8.0\IndependentWork23.exe
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork23\bin\Debug\net8.0\IndependentWork23.deps.json
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork23\bin\Debug\net8.0\IndependentWork23.runtimeconfig.json
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork23\bin\Debug\net8.0\IndependentWork23.dll
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork23\bin\Debug\net8.0\IndependentWork23.pdb
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork23\obj\Debug\net8.0\IndependentWork23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork23\obj\Debug\net8.0\IndependentWork23.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork23\obj\Debug\net8.0\IndependentWork23.AssemblyInfo.cs
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork23\obj\Debug\net8.0\IndependentWork23.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork23\obj\Debug\net8.0\IndependentWork23.sourcelink.json
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork23\obj\Debug\net8.0\IndependentWork23.dll
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork23\obj\Debug\net8.0\refint\IndependentWork23.dll
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork23\obj\Debug\net8.0\IndependentWork23.pdb
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork23\obj\Debug\net8.0\IndependentWork23.genruntimeconfig.cache
+C:\Users\pc\Documents\GitHub\OOP-Dzhumyha2\IndependentWork23\obj\Debug\net8.0\ref\IndependentWork23.dll
