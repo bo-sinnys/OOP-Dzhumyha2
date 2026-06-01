@@ -1,0 +1,15 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: bankingsystem:latest
+    container_name: banking-app
+    stdin_open: true        # -i (інтерактивний режим для Console.ReadLine)
+    tty: true               # -t (псевдо-TTY для кольорового виводу)
+    volumes:
+      - ./data:/app/data    # volume mapping для файлового I/O
+    environment:
+      - DOTNET_ENVIRONMENT=Production
+      - DOTNET_SYSTEM_GLOBALIZATION_INVARIANT=false
+    restart: "no"

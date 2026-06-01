@@ -1,0 +1,45 @@
+# Build-артефакти
+**/bin/
+**/obj/
+
+# Файли Visual Studio / Rider
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+.idea/
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# Тестові проєкти
+tests/
+**/*.Tests/
+**/*.Test/
+
+# Документація та README
+docs/
+*.md
+!DOCKER.md
+
+# CI/CD
+.github/
+.gitlab-ci.yml
+azure-pipelines.yml
+
+# Docker-файли (не потрібні всередині образу)
+docker-compose*.yml
+Dockerfile*
+.dockerignore
+
+# Логи
+*.log
+logs/
+
+# Локальні налаштування
+appsettings.Development.json
+.env
+.env.local

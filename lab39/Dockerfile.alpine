@@ -1,0 +1,35 @@
+# Multi-stage build з Alpine runtime (мінімальний розмір ~100 MB)
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+WORKDIR /src
+
+COPY src/BankingSystem.Domain/BankingSystem.Domain.csproj           src/BankingSystem.Domain/
+COPY src/BankingSystem.Application/BankingSystem.Application.csproj src/BankingSystem.Application/
+COPY src/BankingSystem.Infrastructure/BankingSystem.Infrastructure.csproj src/BankingSystem.Infrastructure/
+COPY src/BankingSystem.Console/BankingSystem.Console.csproj         src/BankingSystem.Console/
+COPY BankingSystem.sln ./
+
+RUN dotnet restore -r linux-musl-x64
+
+COPY src/ src/
+
+RUN dotnet publish src/BankingSystem.Console/BankingSystem.Console.csproj \
+    -c Release \
+    -r linux-musl-x64 \
+    --self-contained false \
+    -o /app/publish \
+    --no-restore
+
+# Alpine runtime — найменший розмір
+FROM mcr.microsoft.com/dotnet/runtime:8.0-alpine AS runtime
+WORKDIR /app
+
+LABEL maintainer="BankingSystem Lab38" \
+      version="1.0-alpine" \
+      description="Banking System — Alpine variant"
+
+RUN adduser --disabled-password --gecos "" appuser
+USER appuser
+
+COPY --from=build /app/publish ./
+
+ENTRYPOINT ["dotnet", "BankingSystem.Console.dll"]
